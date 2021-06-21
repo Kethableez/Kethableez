@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Amadeusz!</h1>
 <h3 align="center">A third year student from Poland</h3>
-<h4 align="justify">
+<h5 align="justify">
   A third year student from Poland A third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from Poland
  </h3>
 
