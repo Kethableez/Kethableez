@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Amadeusz!</h1>
+<h2 align="center">Hi 👋, I'm Amadeusz!</h2>
 
 <h3 align="center">
   A third year student and an intermediate developer from Poland. <br>
