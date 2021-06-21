@@ -1,22 +1,4 @@
-<!-- ### Hi there 👋
-
-
-<!--
-**Kethableez/Kethableez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center">Hi 👋, I'm Amadeusz!</h2>
+<h1 align="center">Hi 👋, I'm Amadeusz!</h1>
 
 <h3 align="center">
   A third year student and an intermediate developer from Poland. <br>
@@ -25,7 +7,7 @@ Here are some ideas to get you started:
   At my free time I like to play the guitar and ride a longboard! <br>
 </h3>
 
-___
+<hr>
 
 - 🔭 I’m currently working on **"Walker - web app supporting the planning of taking dogs for a walk"** as my Engineer's Thesis. <br>
 - 🌱 I’m currently learning Java and Angular.
