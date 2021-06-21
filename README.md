@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h5 align="justify">
   A third year student from Poland A third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from PolandA third year student from Poland
  </h3>
-
+<hr>
 - 🔭 I’m currently working on **"Walker - web app supporting the planning of taking dogs for a walk"** as my Engineer's Thesis. 
 - 🌱 I’m currently learning Java and Angular.
 
