@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🖥️ I’m currently working on **[Walker]()** as my Engineer's Thesis. <br>
+- 🖥️ I’m currently working on **[Walker](https://github.com/Kethableez/Walker)** as my Engineer's Thesis. <br>
 - ✔️ I finished working on **[Tuziemiec](https://github.com/Kethableez/Tuziemiec).** <br>
 - 📖 I’m currently learning Java and Angular.
 
