@@ -10,6 +10,7 @@
 <hr>
 
 - 🔭 I’m currently working on **"Walker - web app supporting the planning of taking dogs for a walk"** as my Engineer's Thesis. <br>
+- 👯 I finished working on [Tuziemiec](https://github.com/Kethableez/Tuziemiec)
 - 🌱 I’m currently learning Java and Angular.
 
 <h3 align="left">Languages and Tools:</h3>
