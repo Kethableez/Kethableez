@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   At my free time I like to play the guitar and ride a longboard! <br>
 </h3>
 
----
+___
 
 - 🔭 I’m currently working on **"Walker - web app supporting the planning of taking dogs for a walk"** as my Engineer's Thesis. <br>
 - 🌱 I’m currently learning Java and Angular.
