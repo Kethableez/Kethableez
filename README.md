@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Amadeusz!</h1>
-<h3 align="center">A third year student from Poland</h3>
 <hr>
 <h5 align="center">
-  Intermediate developer. <br>
+  A third year student and an intermediate developer from Poland. <br>
   I'm passionate about learning new programming techniques. <br>
   I feel comfortable as backend, frontend or fullstack developer. <br>
   At my free time I like to play the guitar and ride a longboard! <br>
