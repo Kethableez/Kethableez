@@ -40,4 +40,3 @@ My fav pastimes are playing guitar and cruising down the street on my longboard 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kethableez&show_icons=true&theme=tokyonight&line_height=20" />
 </p>
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
