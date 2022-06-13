@@ -7,7 +7,7 @@ My fav pastimes are playing guitar and cruising down the street on my longboard 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://kethableez.github.io/Portfolio)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://kethableez.github.io/Portfolio/landing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedIN&logoColor=white)](https://www.linkedin.com/in/amadeusz-janiszyn/)
 
 
